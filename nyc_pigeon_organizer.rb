@@ -17,14 +17,3 @@ data.each_pair do |attribute,attribute_value|
   new_hash
 end 
 
-# newarray << data[:color]
-
-# (1..6).group_by { |i| i%3 }
-
-# newhash.push data.find{|key| key[0]}
-
-# data.map{|key,value|[value}
-# data.select |hash| hash.find{|key, value| value == hash[key]} 
-
-  # next_value.each do |last_key| 
-  #       new_hash[last_key]  
